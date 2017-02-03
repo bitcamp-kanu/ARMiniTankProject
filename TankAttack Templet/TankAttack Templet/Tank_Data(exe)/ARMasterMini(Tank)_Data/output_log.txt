@@ -1,0 +1,42 @@
+Mono path[0] = 'C:/Users/Bitcamp/Desktop/ARMiniPr/TankAttack Templet/TankAttack Templet/Tank_Data(exe)/ARMasterMini(Tank)_Data/Managed'
+Mono path[1] = 'C:/Users/Bitcamp/Desktop/ARMiniPr/TankAttack Templet/TankAttack Templet/Tank_Data(exe)/ARMasterMini(Tank)_Data/Mono'
+Mono config path = 'C:/Users/Bitcamp/Desktop/ARMiniPr/TankAttack Templet/TankAttack Templet/Tank_Data(exe)/ARMasterMini(Tank)_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Bitcamp/Desktop/ARMiniPr/TankAttack Templet/TankAttack Templet/Tank_Data(exe)/ARMasterMini(Tank)_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55177
+Multi-casting "[IP] 192.168.0.43 [Port] 55177 [Flags] 2 [Guid] 2694667465 [EditorId] 2617065406 [Version] 1048832 [Id] WindowsPlayer(Bitcamp-PC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55177]
+PlayerConnection already initialized - listening to [0.0.0.0:55177]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.4229]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bitcamp\Desktop\ARMiniPr\TankAttack Templet\TankAttack Templet\Tank_Data(exe)\ARMasterMini(Tank)_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 3200x900 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.382871 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1610 -> priority: 1 
